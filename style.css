@@ -139,7 +139,7 @@ section{
     font-size: var(--h2_font);
 }
 .center-text h1{
-    font-size: 2.8rem;
+    font-size: 2.5rem;
 }
 .featured-content{
     display: grid;
@@ -265,10 +265,10 @@ section{
     transform: scale(0.9) translateX(-5px);
     cursor: pointer;
 }
-
+/*brands*/
 .brand{
     padding: 50px 14%;
-    border: 3px solid green;
+    /* border: 3px solid green; */
 }
 .brand-content{
     display: grid;
@@ -396,13 +396,4 @@ section{
         left: 0;
     }
 }
-
-
-
-
-
-
-
-
-
 
